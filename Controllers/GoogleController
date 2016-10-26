@@ -1,0 +1,6 @@
+using System;
+using Microsoft.AspNetCore.Mvc;
+
+class GoogleController : Controller {
+
+}
